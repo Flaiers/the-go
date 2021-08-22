@@ -9,7 +9,7 @@ Installing Go
 
 #### And run this command
 ```bash
-rm -rf /usr/local/go && tar -C /usr/local -xzf go1.16.7.linux-amd64.tar.gz
+rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.linux-amd64.tar.gz
 ```
 
 &nbsp;
